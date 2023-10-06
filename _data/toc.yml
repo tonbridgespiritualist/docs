@@ -1,8 +1,8 @@
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
+    - title: "FreeAgent"
+      url: "docs/freeagent"
       children:
         - title: Features
           url: "docs/getting-started#getting-started"
@@ -10,14 +10,11 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
-    - title: "About"
+   
+- title: "Other Pages"
+  url: "docs/extras"
+  links:
+   - title: "About"
       url: "about"
     - title: "News"
       url: "news"
-- title: "Extras"
-  url: "docs/extras"
-  links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
