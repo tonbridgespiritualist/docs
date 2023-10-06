@@ -10580,6 +10580,10 @@ button.bg-dark:focus {
     color: #fff!important
 }
 
+.text-footer {
+    color: #4c6272!important
+}
+
 .text-primary {
     color: {{ site.color }}!important
 }
