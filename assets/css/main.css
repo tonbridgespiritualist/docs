@@ -18640,3 +18640,13 @@ footer {
         visibility: hidden
     }
 }
+
+.tsc-footer {
+    background-color: #d8dde0;
+    background-image: none;
+    min-height: 80px;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 4px;
+    border-top-color: var(--ast-global-color-0);
+}
