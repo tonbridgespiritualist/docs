@@ -7509,6 +7509,14 @@ button.bg-light:focus {
     background-color: #403f4c!important
 }
 
+.bg-footer {
+    background-color: #d8dde0!important
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 4px;
+    border-top-color: #5FBFF9;
+}
+
 a.bg-dark:hover,
 a.bg-dark:focus,
 button.bg-dark:hover,
