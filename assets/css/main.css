@@ -7510,7 +7510,7 @@ button.bg-light:focus {
 }
 
 .bg-footer {
-    background-color: #d8dde0!important
+    background-color: #d8dde0!important;
     border-style: solid;
     border-width: 0px;
     border-top-width: 4px;
