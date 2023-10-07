@@ -1,4 +1,4 @@
-  ---
+---
 title: Google Workspace
 tags: 
  - google
