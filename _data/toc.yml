@@ -10,6 +10,15 @@
           url: "docs/freeagent/transactions"
         - title: Petty cash
           url: "docs/freeagent/petty-cash"
+    - title: "Wordpress"
+      url: "docs/wordpress"
+      children:
+        - title: The Basics
+          url: "docs/wordpress/basics"
+        - title: Customising pages & posts
+          url: "docs/wordpress/customise-pages-posts"
+        - title: Customising the site
+          url: "docs/wordpress/customise-site"
     - title: "Google Workspace"
       url: "docs/google"
       children:
