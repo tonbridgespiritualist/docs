@@ -4,12 +4,25 @@
     - title: "FreeAgent"
       url: "docs/freeagent"
       children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
+        - title: Expenses
+          url: "docs/freeagent/expenses"
+        - title: Bank transactions
+          url: "docs/freeagent/transactions"
+        - title: Petty cash
+          url: "docs/freeagent/petty-cash"
+    - title: "Google Workspace"
+      url: "docs/google"
+      children:
+        - title: The Basics
+          url: "docs/google/basics"
+        - title: Gmail
+          url: "docs/google/gmail"
+        - title: Drive
+          url: "docs/google/drive"
+        - title: Meets
+          url: "docs/google/meets"
+    - title: "Single Sign On (SSO)"
+      url: "docs/single-sign-on"
    
 - title: Other Pages
   url: "docs/extras"
