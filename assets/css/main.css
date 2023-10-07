@@ -351,8 +351,10 @@ label {
     margin-bottom: .5rem
 }
 
-button {
-   border-bottom: 0.5px solid #000;
+.green-button {
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0.5px solid #000;
     border-left: 0.5px solid #000;
     background-color: #007f3b;
     color: #fff;
@@ -368,9 +370,33 @@ button {
     padding-left: 20px;
 }
 
-button:hover {
+.green-button:hover {
     color: #000
     background-color: #ffdd00
+}
+
+.passive-button {
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 0.5px solid #000;
+    border-left: 0.5px solid #000;
+    background-color: #d8dde0;
+    color: #fff;
+    font-family: 'Public Sans',sans-serif;
+    font-weight: 700;
+    line-height: 1em;
+    font-size: 20px;
+    font-size: 1.1111111111111rem;
+    border-radius: 0px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.passive-button:hover {
+    color: #000
+    background-color: #aab5bb;
 }
 
 button:focus {
