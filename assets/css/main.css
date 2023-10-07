@@ -370,7 +370,7 @@ label {
     padding-left: 20px;
 }
 
-.green-button:hover {
+.green-button:hover, .green-button:focus {
     color: #000
     background-color: #ffdd00
 }
@@ -381,7 +381,7 @@ label {
     border-bottom: 0.5px solid #000;
     border-left: 0.5px solid #000;
     background-color: #d8dde0;
-    color: #fff;
+    color: #4c6272;
     font-family: 'Public Sans',sans-serif;
     font-weight: 700;
     line-height: 1em;
@@ -394,8 +394,8 @@ label {
     padding-left: 20px;
 }
 
-.passive-button:hover {
-    color: #000
+.passive-button:hover, .passive-button:focus {
+    color: #fff
     background-color: #aab5bb;
 }
 
