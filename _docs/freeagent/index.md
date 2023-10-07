@@ -6,4 +6,4 @@ tags:
  - bookkeeping
 description: Using the Centre accounting and financial management system.
 ---
-# FreeAgent Bookkeeping and Expense Management
+# FreeAgent
