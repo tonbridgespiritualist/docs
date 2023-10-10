@@ -28,4 +28,4 @@ You can check your owed balance from the homepage.
 1. [Login to FreeAgent](https://tonbridgespiritualist.freeagent.com) (tonbridgespiritualist.freeagent.com)
 2. Find the expense tile on the homepage.
 3. Your recent expenses will be listed and you will also be able to see at the top of the tile the current owed balance.
-{% include alert.html type="info" title="Owed balance" content="Transactions pull through from the bank once a day, this means the balance may not clear down to £0 until the day after you recieve the money. On the other hand, the balance may have cleared down to £0 before you have the cash in hand as petty cash is recorded as it is taken and not as it is given."}
+{% include alert.html type="info" title="Owed balance" content="Transactions pull through from the bank once a day, this means the balance may not clear down to £0 until the day after you recieve the money. On the other hand, the balance may have cleared down to £0 before you have the cash in hand as petty cash is recorded as it is taken and not as it is given." %}
