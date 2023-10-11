@@ -18,7 +18,7 @@ Creating an expense in FreeAgent is quick and simple.
 4. In the attachment section upload a clear photo of the receipt.
 {% include alert.html type="info" title="Auto populated data" content="FreeAgent attempts to save you time by auto populating data it can interpret from the receipt. If there is other purchases on the receipt that aren't included in the expense then be sure to modify the value." %}
 5. Choose the closest possible category for your expense.
-{% include alert.html type="info" title="Example" content="You would select Stationery for buying a duplicate book."}
+{% include alert.html type="info" title="Example" content="You would select Stationery for buying a duplicate book." %}
 6. Update the date of the expense to the day of purchase (these should be entered same day if possible to ensure speedy repayment).
 7. Ensure the monetary details and description are submitted then submit.
 
